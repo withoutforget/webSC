@@ -1,0 +1,5 @@
+[api]
+project_name = "webSC backend"
+allow_origins = ['*']
+allow_headers = ["*"]
+allow_methods = ["*"]
